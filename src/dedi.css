@@ -1,0 +1,13 @@
+.textImage{
+    height: 70vh;
+
+}
+
+.pageContainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.cardIn{
+    border: 1px solid black;
+}
