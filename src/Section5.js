@@ -1,5 +1,5 @@
 import React from 'react';
-import img from './'
+import img from './images/img1.png'
 import "./Section5.css";
 const Section5 = () => {
   return (
