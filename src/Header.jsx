@@ -10,12 +10,12 @@ const Header = () => {
                 className="webIconImage" />
         </div>
         <h1 className="HeadingContainer">
-            La dématérialisation
+            Dematerialization
             <br />
             au service de votre business
         </h1>
         <div className="descriptionTextContainer">
-            Esalink vous accompagne dans la digitalisation de vos flux B2B
+           Esalink supports you in the digitalization of your B2B flows
         </div>
         <div className="twoButttonContainer">
             <div className="buttons">Trouver votre solution EDI</div>
